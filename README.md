@@ -15,7 +15,7 @@
 here, This project demonstrates a simple end-to-end CI/CD pipeline for a Java-based web application deployed on AWS. The goal is to automate the build, test, and deployment process, showcasing DevOps practices in a small-scale environment. 
 
 ### Key Objectives:
-- Automate code integration and deployment upon GitHub commits.
+- Automate code integration and deployment upon GitHub commits..
 - Use open-source tools for building and deploying artifacts.
 - Host everything on a single AWS EC2 instance for simplicity.
 
